@@ -1,0 +1,46 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color: blue;
+}
+.container{
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: antiquewhite;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(red, green, alpha);
+    background-image: url(images.jpeg);
+    background-size: cover;
+    background-repeat: no repeat;
+}
+h1{
+    text-align: center;
+}
+p{
+    margin-bottom: 10px;
+}
+.menu{
+    text-align: center;
+}
+.menu ul{
+    list-style-type: none;
+    padding: 0;
+}
+,menu ul li{
+    display: inline;
+    margin-right: 20px;
+}
+.menu ul li a{
+    text-decoration: blue;
+    color: black;
+    background-color: antiquewhite;
+}
+.menu ul li a:hover{
+    color: black;
+    background-color: aqua;
+}
+body{
+    background-image: url(images.jpeg);
+    background-size: cover;
+    background-repeat: no repeat;
+}
